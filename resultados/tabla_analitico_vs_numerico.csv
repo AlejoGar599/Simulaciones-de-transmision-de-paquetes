@@ -1,0 +1,8 @@
+Magnitud,Valor
+S* analítico [B],2216.1574184301066
+S* numérico (SciPy) [B],2216.1573658298457
+|diferencia| [B],5.260026091491454e-05
+E(S*),0.9650092765712946
+E'(S*) (debe ser ~0),1.6347893033238479e-21
+E''(S*) (debe ser <0),-6.90532048850807e-09
+S* dentro del MSS (1460 B)?,No
